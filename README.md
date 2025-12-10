@@ -1,2 +1,1 @@
-# Human-Following-Robot-Using-Deep-Learning-Object-Detection-for-Assistive-Load-Transportation
-Developed a low-cost Raspberry Pi 5 robot that tracks a red circular marker for indoor load carrying in healthcare/logistics. Trained YOLOv8n on 4,500 images, optimized with NCNN for 8-9 FPS real-time detection. Implemented vision-based steering/distance control and IR obstacle avoidance for robust performance in crowds
+https://github.com/user-attachments/assets/c6bb8163-9605-41d2-a22c-5babed00ade9
